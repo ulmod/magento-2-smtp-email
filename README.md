@@ -1,6 +1,6 @@
 # Magento 2 SMTP Extension
 
-[Magento 2 SMTP](https://www.ulmod.com/magento-2-smtp-email-extension.html)  is a Magento 2 extension that allows you to send reliable emails from Up to twelve popular SMTP providers or via a custom SMTP server.
+[Magento 2 SMTP](https://www.ulmod.com/magento-2-smtp-email-extension.html)  is a Magento 2 extension that allows you to send reliable emails from up to 12 popular SMTP providers or via a custom SMTP server.
 
 With Magento 2 SMTP, you can control custom SMTP server settings in the backend and make sure that customers receive all emails you send. 
 
