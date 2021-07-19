@@ -17,7 +17,7 @@ With Magento 2 SMTP, you can control custom SMTP server settings in the backend 
 * Support multiple-stores
 
 <img src="https://www.ulmod.com/media/ulmod/product_content/umsmtp-admin1.png">
-<img src="https://www.ulmod.com/media/ulmod/product_content/umsmtp-main1.png">
+<img src="https://www.ulmod.com/media/ulmod/product_content/umsmtp-log2.png">
 <img src="https://www.ulmod.com/media/ulmod/product_content/umsmtp-main1.png">
 <img src="https://www.ulmod.com/media/ulmod/product_content/umsmtp-debug1.png">
 
